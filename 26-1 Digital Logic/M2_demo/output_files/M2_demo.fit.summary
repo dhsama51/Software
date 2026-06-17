@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed May  6 02:21:43 2026
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : M2_demo
+Top-level Entity Name : top
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 149 / 10,320 ( 1 % )
+    Total combinational functions : 148 / 10,320 ( 1 % )
+    Dedicated logic registers : 77 / 10,320 ( < 1 % )
+Total registers : 77
+Total pins : 22 / 180 ( 12 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

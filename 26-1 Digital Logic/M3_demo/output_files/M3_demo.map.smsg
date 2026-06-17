@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at top.v(106): always construct contains both blocking and non-blocking assignments File: C:/code/digital_logic/M3_demo/top.v Line: 106
